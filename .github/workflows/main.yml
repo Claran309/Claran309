@@ -1,6 +1,6 @@
 name: generate animation
 
-于:
+on:
   # run automatically every 24 hours
   schedule:
     - cron: "0 */24 * * *" 
