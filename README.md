@@ -6,17 +6,9 @@
 
 ## **🐍 近期提交/GitHub Contributions**
  
-<br>
-<br>
-<br>
+![](https://raw.githubusercontent.com/Claran309/Claran309/refs/heads/output/github-contribution-grid-snake-dark.svg)
+<!--![](https://raw.githubusercontent.com/Claran309/Claran309/refs/heads/output/github-contribution-grid-snake.svg)-->
  
-![](https://raw.githubusercontent.com/Claran309/Claran309/main/assets/github-contribution-grid-snake.svg)
-![](https://raw.githubusercontent.com/Claran309/Claran309/main/assets/github-contribution-grid-snake.svg)
- 
-<br>
-<br>
-<br>
-
 ## 💻 技术栈/Tech Stack
 
 ![Tech Stack Header](https://github.com/erbanku/erbanku/assets/79493862/543c5ef4-bae2-45c3-9742-04af4b56cda1)
