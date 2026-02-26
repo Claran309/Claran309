@@ -1,14 +1,15 @@
-# Hi !  你们好，我是**Claran**😇😇😇
+## Hi !  你们好，我是**Claran**😇😇😇
 
 >  cqupt25的一名蒟蒻后端学习者，目前主要学习Go方向的后端开发
 
 ## **💌 My Blog : [claran-blog](https://www.claran-blog.work/)**
 
+<!--
 ## **🐍 近期提交/GitHub Contributions**
  
 ![](https://raw.githubusercontent.com/Claran309/Claran309/refs/heads/output/github-contribution-grid-snake-dark.svg)
 <!--![](https://raw.githubusercontent.com/Claran309/Claran309/refs/heads/output/github-contribution-grid-snake.svg)-->
- 
+ <!--
 ## 💻 技术栈/Tech Stack
 
 ![Tech Stack Header](https://github.com/erbanku/erbanku/assets/79493862/543c5ef4-bae2-45c3-9742-04af4b56cda1)
@@ -30,6 +31,7 @@
 ![SQLite](https://img.shields.io/badge/sqlite-%2307405e.svg?style=flat&logo=sqlite)
 ![Postgres](https://img.shields.io/badge/postgres-%23316192.svg?style=flat&logo=postgresql)
 -->
+
 
 ## **👀 本页访问次数/Visitor Count**
 
