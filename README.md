@@ -1,6 +1,4 @@
-## Hi !  你们好，我是**Claran**😇😇😇
-
->  cqupt25的一名蒟蒻后端学习者，目前主要学习Go方向的后端开发
+## hello，我是**Claran**
 
 ## **💌 My Blog : [claran-blog](https://www.claran-blog.work/)**
 
